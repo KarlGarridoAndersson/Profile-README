@@ -1,9 +1,9 @@
 # Karl Garrido Andersson
 
-Élève-ingénieur à **Centrale Lille** Futur Double Diplôme en Mathématiques — **Politecnico di Milano** (2026–2028)
+Élève-ingénieur à **Centrale Lille** Futur Double Diplôme en Mathématiques **Politecnico di Milano** (2026–2028)
+
 **Modélisation Mathématique & Optimisation Algorithmique** 
 
----
 
 ## 🔬 À propos
 
@@ -11,7 +11,6 @@ Je conçois des algorithmes et des cadres mathématiques pour résoudre des prob
 
 Mes travaux portent sur l'optimisation, les systèmes dynamiques et la modélisation structurelle, avec un équilibre constant entre rigueur théorique et applications concrètes.
 
----
 
 ## 📊 Recherche & Projets Scientifiques
 
@@ -24,7 +23,6 @@ Mes travaux portent sur l'optimisation, les systèmes dynamiques et la modélisa
 
 [Voir le projet → GitHub](https://github.com/votre-utilisateur/polyomino-optimization) | [Lire l'article → PDF](https://github.com/votre-utilisateur/polyomino-optimization/blob/main/paper/polyomino_optimization.pdf)
 
----
 
 ### Prédiction de l'État de Santé de Systèmes Dynamiques
 *Cadre général pour la prévision de la dégradation de systèmes à partir de séries temporelles.*
@@ -35,7 +33,6 @@ Mes travaux portent sur l'optimisation, les systèmes dynamiques et la modélisa
 
 [Voir le projet → GitHub](https://github.com/votre-utilisateur/dynamic-system-health-prediction) | [Lire l'article → PDF](https://github.com/votre-utilisateur/dynamic-system-health-prediction/blob/main/paper/health_prediction.pdf)
 
----
 
 ## 💼 Expériences Clés
 
@@ -43,7 +40,6 @@ Mes travaux portent sur l'optimisation, les systèmes dynamiques et la modélisa
 * **Stage Industriel — AFT Micromacinazione** : Immersion dans les processus industriels de précision.
 * **Enseignement & Tutorat** : Soutien académique en mathématiques, informatique et anglais (niveaux secondaire et supérieur).
 
----
 
 ## 🛠 Compétences
 
@@ -51,7 +47,6 @@ Mes travaux portent sur l'optimisation, les systèmes dynamiques et la modélisa
 * **Domaines :** Optimisation, Algorithmique, Modélisation Mathématique, Analyse de données
 * **Langues :** Français (Maternel), Anglais (C1), Espagnol (A2)
 
----
 
 ## 📫 Contact
 
