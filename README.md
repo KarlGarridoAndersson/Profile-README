@@ -1,6 +1,6 @@
 # Karl Garrido Andersson
 
-Élève-ingénieur à **Centrale Lille** Futur Double Diplôme en Mathématiques **Politecnico di Milano** (2026–2028)
+Élève-ingénieur à **Centrale Lille** en Double Diplôme dans le département de Mathématiques à **Politecnico di Milano** (2026–2028)
 
 **Modélisation Mathématique & Optimisation Algorithmique** 
 
