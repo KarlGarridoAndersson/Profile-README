@@ -22,7 +22,6 @@ Mes travaux portent sur l'optimisation, les systèmes dynamiques et la modélisa
 * **Approche :** Développement de trois heuristiques ($H_1, H_2, H_3$) basées sur la morphologie des blocs.
 * **Résultats :** Utilisation de métriques de compacité et de ressemblance morphologique pour atteindre des configurations denses.
 
-[Voir le projet → GitHub](https://github.com/votre-utilisateur/polyomino-optimization) | [Lire l'article → PDF](https://github.com/votre-utilisateur/polyomino-optimization/blob/main/paper/polyomino_optimization.pdf)
 
 
 ### Prédiction de l'État de Santé de Systèmes Dynamiques
@@ -32,7 +31,7 @@ Mes travaux portent sur l'optimisation, les systèmes dynamiques et la modélisa
 * **Polyvalence :** Approche de modélisation généralisable à la finance, l'industrie ou la médecine.
 * **Technique :** Analyse et prédiction sur séries temporelles multivariées.
 
-[Voir le projet → GitHub](https://github.com/votre-utilisateur/dynamic-system-health-prediction) | [Lire l'article → PDF](https://github.com/votre-utilisateur/dynamic-system-health-prediction/blob/main/paper/health_prediction.pdf)
+
 
 
 ## Expériences Clés
