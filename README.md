@@ -36,8 +36,8 @@ My work focuses on optimization, dynamical systems, and structural modeling, wit
 
 ## Key Experiences
 
-* **Project Lead — 360° Thermal Camera**: Division head in charge of designing a complete thermal imaging system.
-* **Industrial Internship — AFT Micromacinazione**: Immersion in precision industrial processes.
+* **Project Lead - 360° Thermal Camera**: Division head in charge of designing a complete thermal imaging system.
+* **Industrial Internship - AFT Micromacinazione**: Immersion in precision industrial processes.
 * **Teaching & Tutoring**: Academic support in mathematics, computer science, and English (secondary and higher-education levels).
 
 
