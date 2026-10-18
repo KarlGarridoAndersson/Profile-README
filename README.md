@@ -1,54 +1,54 @@
 # Karl Garrido Andersson
 
-Élève-ingénieur à **Centrale Lille** en Double Diplôme dans le département de Mathématiques à **Politecnico di Milano** (2026 - 2028)
+Engineering student at **Centrale Lille**, pursuing a Double Degree in the Department of Mathematics at **Politecnico di Milano** (2026 - 2028)
 
-**Modélisation Mathématique & Optimisation Algorithmique** 
+**Mathematical Modeling & Algorithmic Optimization** 
 
 ------
 
-## À propos
+## About
 
-Je conçois des algorithmes et des cadres mathématiques pour résoudre des problèmes au sein de systèmes complexes. 
+I design algorithms and mathematical frameworks to solve problems within complex systems. 
 
-Mes travaux portent sur l'optimisation, les systèmes dynamiques et la modélisation structurelle, avec un équilibre constant entre rigueur théorique et applications concrètes.
-
-
-## Recherche & Projets Scientifiques
-
-### Optimisation de Pavage (Polyominos)
-*Optimisation discrète de la compacité géométrique par des méthodes d'assemblage heuristiques.*
-
-* **Problématique :** Formulation d'un problème de pavage **NP-complet**.
-* **Approche :** Développement de trois heuristiques ($H_1, H_2, H_3$) basées sur la morphologie des blocs.
-* **Résultats :** Utilisation de métriques de compacité et de ressemblance morphologique pour atteindre des configurations denses.
+My work focuses on optimization, dynamical systems, and structural modeling, with a constant balance between theoretical rigor and practical applications.
 
 
+## Research & Scientific Projects
 
-### Prédiction de l'État de Santé de Systèmes Dynamiques
-*Cadre général pour la prévision de la dégradation de systèmes à partir de séries temporelles.*
+### Tiling Optimization (Polyominoes)
+*Discrete optimization of geometric compactness through heuristic assembly methods.*
 
-* **Formalisation :** Définition d'une fonction de santé $H(X(t))$ pour transformer des données brutes en indicateurs décisionnels.
-* **Polyvalence :** Approche de modélisation généralisable à la finance, l'industrie ou la médecine.
-* **Technique :** Analyse et prédiction sur séries temporelles multivariées.
+* **Problem statement:** Formulation of an **NP-complete** tiling problem.
+* **Approach:** Development of three heuristics ($H_1, H_2, H_3$) based on block morphology.
+* **Results:** Use of compactness and morphological resemblance metrics to reach dense configurations.
 
 
 
+### Health State Prediction of Dynamical Systems
+*General framework for forecasting system degradation from time series.*
 
-## Expériences Clés
-
-* **Chef de Projet — Caméra Thermique 360°** : Responsable de division pour la conception d'un système d'imagerie thermique complet.
-* **Stage Industriel — AFT Micromacinazione** : Immersion dans les processus industriels de précision.
-* **Enseignement & Tutorat** : Soutien académique en mathématiques, informatique et anglais (niveaux secondaire et supérieur).
+* **Formalization:** Definition of a health function $H(X(t))$ to turn raw data into decision-making indicators.
+* **Versatility:** Modeling approach that generalizes to finance, industry, or medicine.
+* **Technical:** Analysis and prediction on multivariate time series.
 
 
-## Compétences
 
-* **Programmation :** Python, C, OCaml, Java, MatLab
-* **Domaines :** Optimisation, Algorithmique, Modélisation Mathématique, Analyse de données
-* **Langues :** Français (Maternel), Anglais (C1), Espagnol (A2)
+
+## Key Experiences
+
+* **Project Lead — 360° Thermal Camera**: Division head in charge of designing a complete thermal imaging system.
+* **Industrial Internship — AFT Micromacinazione**: Immersion in precision industrial processes.
+* **Teaching & Tutoring**: Academic support in mathematics, computer science, and English (secondary and higher-education levels).
+
+
+## Skills
+
+* **Programming:** Python, C, OCaml, Java, MatLab
+* **Fields:** Optimization, Algorithmics, Mathematical Modeling, Data Analysis
+* **Languages:** French (Native), English (C1), Spanish (A2)
 
 
 ## Contact
 
-* **Email :** [karl.garrido@centrale.centralelille.fr](mailto:karl.garrido@centrale.centralelille.fr)
-* **LinkedIn :** [linkedin.com/in/karl-garrido-andersson](https://www.linkedin.com/in/karl-garrido-andersson)
+* **Email:** [karl.garrido@centrale.centralelille.fr](mailto:karl.garrido@centrale.centralelille.fr)
+* **LinkedIn:** [linkedin.com/in/karl-garrido-andersson](https://www.linkedin.com/in/karl-garrido-andersson)
