@@ -4,15 +4,6 @@ Engineering student at **Centrale Lille**, pursuing a Double Degree in the Depar
 
 **Mathematical Modeling & Algorithmic Optimization** 
 
-------
-
-## About
-
-I design algorithms and mathematical frameworks to solve problems within complex systems. 
-
-My work focuses on optimization, dynamical systems, and structural modeling, with a constant balance between theoretical rigor and practical applications.
-
-
 ## Research & Scientific Projects
 
 ### Tiling Optimization (Polyominoes)
