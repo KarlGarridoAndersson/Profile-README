@@ -5,7 +5,7 @@ Engineering student at **Centrale Lille**, pursuing a Double Degree in the Depar
 ## Research & Scientific Projects
 
 ### Tiling Optimization (Polyominoes)
-*Discrete optimization of geometric compactness through heuristic assembly methods.*
+*Discrete optimization of geometric compactness through heuristic assembly methods.* [link](https://github.com/KarlGarridoAndersson/2DTilingOptimization)
 
 * **Problem statement:** Formulation of an **NP-complete** tiling problem.
 * **Approach:** Development of three heuristics ($H_1, H_2, H_3$) based on block morphology.
