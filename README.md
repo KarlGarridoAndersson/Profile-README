@@ -23,29 +23,12 @@ My work focuses on optimization, dynamical systems, and structural modeling, wit
 * **Results:** Use of compactness and morphological resemblance metrics to reach dense configurations.
 
 
-
 ### Health State Prediction of Dynamical Systems
 *General framework for forecasting system degradation from time series.*
 
 * **Formalization:** Definition of a health function $H(X(t))$ to turn raw data into decision-making indicators.
 * **Versatility:** Modeling approach that generalizes to finance, industry, or medicine.
 * **Technical:** Analysis and prediction on multivariate time series.
-
-
-
-
-## Key Experiences
-
-* **Project Lead - 360° Thermal Camera**: Division head in charge of designing a complete thermal imaging system.
-* **Industrial Internship - AFT Micromacinazione**: Immersion in precision industrial processes.
-* **Teaching & Tutoring**: Academic support in mathematics, computer science, and English (secondary and higher-education levels).
-
-
-## Skills
-
-* **Programming:** Python, C, OCaml, Java, MatLab
-* **Fields:** Optimization, Algorithmics, Mathematical Modeling, Data Analysis
-* **Languages:** French (Native), English (C1), Spanish (A2)
 
 
 ## Contact
