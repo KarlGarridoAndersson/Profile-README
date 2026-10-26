@@ -4,15 +4,15 @@ Engineering student at **Centrale Lille**, pursuing a Double Degree in the Depar
 
 ## Research & Scientific Projects
 
-### Tiling Optimization (Polyominoes)
-*Discrete optimization of geometric compactness through heuristic assembly methods.* [link](https://github.com/KarlGarridoAndersson/2DTilingOptimization)
+### Tiling Optimization (Polyominoes) - [link](https://github.com/KarlGarridoAndersson/2DTilingOptimization)
+*Discrete optimization of geometric compactness through heuristic assembly methods.* 
 
 * **Problem statement:** Formulation of an **NP-complete** tiling problem.
 * **Approach:** Development of three heuristics ($H_1, H_2, H_3$) based on block morphology.
 * **Results:** Use of compactness and morphological resemblance metrics to reach dense configurations.
 
 
-### Health State Prediction of Dynamical Systems
+### Health State Prediction of Dynamical Systems - [link]()
 *General framework for forecasting system degradation from time series.*
 
 * **Formalization:** Definition of a health function $H(X(t))$ to turn raw data into decision-making indicators.
