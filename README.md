@@ -20,13 +20,13 @@ Engineering student at **Centrale Lille**, pursuing a Double Degree in the Depar
 * **Technical:** Analysis and prediction on multivariate time series.
 
 
-### Emergent Alignment Through Cognitive Immersion - [link]()
+### Emergent Alignment Through Cognitive Immersion - [link](https://github.com/KarlGarridoAndersson/ImmersiveLearning)
 
-*Proposal of a new paradigm for AI alignment based on experiential learning in complex digital environments.*
+*Exploration of a new AI alignment paradigm based on experiential learning in digital environments.*
 
-* **Problem:** Analysis of the limitations of RLHF and behavioral guardrails, highlighting the risks of proxy objective optimization and the gap between external and internal alignment.
-* **Architecture:** Design of an immersion-based framework combining sensorimotor grounding, interconnected short- and long-term memory, intrinsic agency, and continuous temporal plasticity.
-* **Philosophical:** Exploration of emergent norm formation, the development of persistent agent identities, and the ethical implications of autonomous AI systems.
+* **Problem:** Limitations of RLHF and conventional alignment methods.
+* **Architecture:** Cognitive immersion, intrinsic agency, memory, and continuous learning.
+* **Ethics:** Emergent norms, agent identity, and autonomous AI systems.
 
 ## Contact
 
