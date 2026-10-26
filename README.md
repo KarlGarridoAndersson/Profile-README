@@ -12,7 +12,7 @@ Engineering student at **Centrale Lille**, pursuing a Double Degree in the Depar
 * **Results:** Use of compactness and morphological resemblance metrics to reach dense configurations.
 
 
-### Health State Prediction of Dynamical Systems - [link]()
+### Health State Prediction of Dynamical Systems - [link](https://github.com/KarlGarridoAndersson/DynamicEnvironmentModeling)
 *General framework for forecasting system degradation from time series.*
 
 * **Formalization:** Definition of a health function $H(X(t))$ to turn raw data into decision-making indicators.
