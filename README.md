@@ -1,8 +1,6 @@
 # Karl Garrido Andersson
 
-Engineering student at **Centrale Lille**, pursuing a Double Degree in the Department of Mathematics at **Politecnico di Milano** (2026 - 2028)
-
-**Mathematical Modeling & Algorithmic Optimization** 
+Engineering student at **Centrale Lille**, pursuing a Double Degree in the Department of Mathematics at **Politecnico di Milano** in the track **Computational Science and Computational Learning** (2026 - 2028)
 
 ## Research & Scientific Projects
 
